@@ -1,0 +1,4 @@
+- The main class is MessagePasser. Run it.
+- Input argument0 is the config.yaml file(should type to input) and argument1 is the user name
+- config.yaml is the parser configuration file
+- yaml.jar is the yaml library file that need to add to the program’s library
